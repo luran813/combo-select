@@ -425,7 +425,7 @@
 
             //this.$container.trigger('comboselect:close')
 
-            this.$input.focus();
+            //this.$input.focus();
 
             this.$container.trigger('comboselect:close');
 
